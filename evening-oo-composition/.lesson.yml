@@ -1,0 +1,8 @@
+---
+title: "Emergency Brussels Sprouts"
+type: "challenge"
+description: "Implementing classes with composition"
+visibility: "assign"
+tags: "evening-exercise, oop, object-composition"
+ignore:
+- "evening-oo-composition.md"
